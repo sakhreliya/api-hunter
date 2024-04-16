@@ -1,0 +1,60 @@
+.input-container {
+    margin-bottom: 1rem;
+}
+
+.input-container input {
+    margin-right: 0.5rem;
+}
+
+.update-form {
+    margin-bottom: 1rem;
+}
+
+.update-form label {
+    margin-right: 0.5rem;
+}
+
+.update-form input {
+    margin-right: 0.5rem;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 18rem;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+}
+
+.card h5 {
+    margin-bottom: 0.5rem;
+}
+
+.card h6 {
+    margin-bottom: 0.5rem;
+    color: #6c757d;
+}
+
+.card p {
+    margin-bottom: 1rem;
+}
+
+.card button {
+    margin-right: 0.5rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.card button:hover {
+    background-color: #0056b3;
+}
